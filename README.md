@@ -27,3 +27,4 @@ Service Impact: Customers without tech support or online security services tend 
 
 Machine Learning ImplementationI utilized a Random Forest Classifier to build the predictive model.  Preprocessing: Handled missing values, encoded categorical variables (like Gender and Contract), and scaled numerical features.  Ensemble Method: Leveraged Bagging logic to reduce variance and improve model robustness.  Evaluation: The model was evaluated based on accuracy, precision, and recall to ensure it captures as many potential "churners" as possible.
 
+Task tracking integrated with Azure DevOps.
